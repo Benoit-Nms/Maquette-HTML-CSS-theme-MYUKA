@@ -130,6 +130,7 @@ form {
     margin-top: 20px;
     font-size: 15px;
     transition: none;   
+    cursor: pointer;
 }
 
 .bouton_rechercher:hover {
